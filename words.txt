@@ -9990,7 +9990,7 @@ return {
 "pawn",
 "pawnbrokings",
 "pawnbroker",
-"pawnbrokers"
+"pawnbrokers",
 "pawkiness",
 "impawning",
 "pawnbroking",
